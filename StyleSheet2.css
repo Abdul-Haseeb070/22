@@ -1,0 +1,56 @@
+body {
+    font family: Arial, San-Serif;
+    background:linear-gradient(35deg,#808080,#DFF2FF);
+    margin: 100px;
+    align: left;
+}
+
+.profile-pic {
+    width: 400px;
+    height: 400px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1 {
+    color: #000000;
+    font-size: 40px;
+}
+
+h2 {
+    color: #DFF2FF;
+}
+
+h3 {
+    color: #000000;
+}
+
+ol, ul {
+    color: #DFF2FF;
+}
+
+p {
+    color: #ffffff;
+}
+
+table {
+    border-style: solid;
+    border-width: 2px;
+    border-color: white;
+    border-collapse: collapse;
+    width: 50%;
+   
+}
+
+th, td {
+    border: 2px;
+    padding: 10px;
+    text-align: left;
+    color: white;
+    background: linear-gradient(35deg,#C4C4C4,#000000);
+}
+
+td {
+    text-align: center;
+    
+}
